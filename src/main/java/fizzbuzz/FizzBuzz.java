@@ -30,6 +30,7 @@ public class FizzBuzz {
         return isDivisableBy(number, 3) || number.toString().contains("3");
     }
 
+
     private boolean isDivisableBy(Integer number, Integer divisor){
         return number % divisor == 0;
     }
