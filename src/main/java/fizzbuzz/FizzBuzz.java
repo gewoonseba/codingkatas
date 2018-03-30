@@ -2,6 +2,12 @@ package fizzbuzz;
 
 public class FizzBuzz {
 
+    public void run(Integer max){
+        for(Integer i = 1;i <= max ; i++){
+            System.out.println(doFizzBuzz(i));
+        }
+    }
+
     public String doFizzBuzz(Integer number) {
         String result = "";
 
