@@ -4,15 +4,23 @@ public class FizzBuzz {
 
     public String doFizzBuzz(Integer number) {
         String result = "";
-        if (number % 3 == 0) {
+
+        if (isDivisableBy(number, 3)) {
             result += "Fizz";
         }
-        if (number % 5 == 0) {
+
+        if (isDivisableBy(number, 5)) {
            result += "Buzz";
         }
-        if (result == ""){
-            result = number.toString();
+
+        if (! (isDivisableBy(number, 3) || isDivisableBy(number, 5))){
+            result += number.toString();
         }
+
         return result;
+    }
+
+    private boolean isDivisableBy(Integer number, Integer divisor){
+        return number % divisor == 0;
     }
 }
