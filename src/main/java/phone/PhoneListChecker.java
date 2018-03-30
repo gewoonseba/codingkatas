@@ -1,8 +1,6 @@
 package phone;
 
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class PhoneListChecker {
 
@@ -19,17 +17,32 @@ public class PhoneListChecker {
         if (hasDuplicates(phoneNumbers)) {
             return false;
         } else {
-            return hasPrefixes(phoneNumbers);
+            return ! hasPrefixes(phoneNumbers);
         }
     }
 
     private Boolean hasPrefixes(List<String> phoneNumbers) {
         HashSet<String> checked = new HashSet<String>();
+        Collections.sort(phoneNumbers, new PhoneComparator());
+        for (String phoneNumber : phoneNumbers){
+            if (containsAnotherPhoneNumber(phoneNumber, checked)){
+                return true;
+            } else {
+                checked.add(phoneNumber);
+            }
+        }
         return false;
     }
 
     private Boolean hasDuplicates(List<String> phoneNumbers){
         Set<String> uniqueNumbers = new HashSet<String>(phoneNumbers);
-        return uniqueNumbers.size() == phoneNumbers.size();
+        return uniqueNumbers.size() != phoneNumbers.size();
+    }
+
+    private Boolean containsAnotherPhoneNumber(String phoneNumber, HashSet<String> checked) {
+        for(String checkedPhoneNumber : checked){
+            return phoneNumber.startsWith(checkedPhoneNumber);
+        }
+        return false;
     }
 }
