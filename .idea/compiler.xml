@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="codingkatas" />
+        <module name="fizzbuzz" />
+        <module name="phonenumber" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="codingkatas" target="1.5" />
+      <module name="fizzbuzz" target="1.5" />
+      <module name="phonenumber" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
