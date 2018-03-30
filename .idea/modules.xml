@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codingkatas.iml" filepath="$PROJECT_DIR$/codingkatas.iml" />
       <module fileurl="file://$PROJECT_DIR$/fizzbuzz/fizzbuzz.iml" filepath="$PROJECT_DIR$/fizzbuzz/fizzbuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaderboard/leaderboard.iml" filepath="$PROJECT_DIR$/leaderboard/leaderboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/phonenumber/phonenumber.iml" filepath="$PROJECT_DIR$/phonenumber/phonenumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telemetrysystem/telemetrysystem.iml" filepath="$PROJECT_DIR$/telemetrysystem/telemetrysystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textconverter/textconverter.iml" filepath="$PROJECT_DIR$/textconverter/textconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tirepressuremonitoringsystem/tirepressuremonitoringsystem.iml" filepath="$PROJECT_DIR$/tirepressuremonitoringsystem/tirepressuremonitoringsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turnticketdispenser/turnticketdispenser.iml" filepath="$PROJECT_DIR$/turnticketdispenser/turnticketdispenser.iml" />
     </modules>
   </component>
 </project>

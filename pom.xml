@@ -11,6 +11,11 @@
     <modules>
         <module>fizzbuzz</module>
         <module>phonenumber</module>
+        <module>leaderboard</module>
+        <module>telemetrysystem</module>
+        <module>textconverter</module>
+        <module>tirepressuremonitoringsystem</module>
+        <module>turnticketdispenser</module>
     </modules>
     <dependencies>
         <dependency>

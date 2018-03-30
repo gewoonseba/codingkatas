@@ -7,13 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fizzbuzz" />
+        <module name="leaderboard" />
         <module name="phonenumber" />
+        <module name="telemetrysystem" />
+        <module name="textconverter" />
+        <module name="tirepressuremonitoringsystem" />
+        <module name="turnticketdispenser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="codingkatas" target="1.5" />
       <module name="fizzbuzz" target="1.5" />
+      <module name="leaderboard" target="1.5" />
       <module name="phonenumber" target="1.5" />
+      <module name="telemetrysystem" target="1.5" />
+      <module name="textconverter" target="1.5" />
+      <module name="tirepressuremonitoringsystem" target="1.5" />
+      <module name="turnticketdispenser" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
