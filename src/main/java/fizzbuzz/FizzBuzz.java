@@ -11,7 +11,7 @@ public class FizzBuzz {
     public String doFizzBuzz(Integer number) {
         String result = "";
 
-        if (isDivisableBy(number, 3)) {
+        if (isFizz(number)) {
             result += "Fizz";
         }
 
@@ -19,11 +19,15 @@ public class FizzBuzz {
            result += "Buzz";
         }
 
-        if (! (isDivisableBy(number, 3) || isDivisableBy(number, 5))){
+        if (! (isFizz(number) || isDivisableBy(number, 5))){
             result += number.toString();
         }
 
         return result;
+    }
+
+    private boolean isFizz(Integer number){
+        return isDivisableBy(number, 3) || number.toString().contains("3");
     }
 
     private boolean isDivisableBy(Integer number, Integer divisor){
