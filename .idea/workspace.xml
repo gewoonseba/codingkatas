@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/phone/PhoneComparatorTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/phone/PhoneComparatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/phone/PhoneComparatorTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,8 +73,8 @@
       <file leaf-file-name="PhoneComparatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/phone/PhoneComparatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="58" lean-forward="true" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+            <state relative-caret-position="420">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -282,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PhoneComparatorTest">
+  <component name="RunManager" selected="JUnit.PhoneComparatorTest.sortTest">
     <configuration name="PhoneComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -333,6 +333,31 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="PhoneComparatorTest.sortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="phone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="codingkatas" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="phone" />
+      <option name="MAIN_CLASS_NAME" value="phone.PhoneComparatorTest" />
+      <option name="METHOD_NAME" value="sortTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="PhoneListCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -347,31 +372,6 @@
       <option name="MAIN_CLASS_NAME" value="phone.PhoneListCheckerTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="PhoneListCheckerTest.isConsistentTest_Consistent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="phone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="codingkatas" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="phone" />
-      <option name="MAIN_CLASS_NAME" value="phone.PhoneListCheckerTest" />
-      <option name="METHOD_NAME" value="isConsistentTest_Consistent" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -490,19 +490,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_Consistent" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_NotConsistent" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest.compareTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_NotConsistent" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest.compareTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest.sortTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest.compareTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_NotConsistent" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_Consistent" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest.sortTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest.compareTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_NotConsistent" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +519,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522413347793</updated>
-      <workItem from="1522413349102" duration="5695000" />
+      <workItem from="1522413349102" duration="6047000" />
     </task>
     <task id="LOCAL-00001" summary="Failing test of doFizzBuzz(1)">
       <created>1522413902212</created>
@@ -710,7 +710,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522419371897</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Phone: Added Test for comparator">
+      <created>1522419602040</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1522419602040</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -719,6 +726,9 @@
     </history-entry>
     <history-entry file="PhoneComparatorTest_compareTest - 2018.03.30 at 16h 19m 13s.xml">
       <configuration name="PhoneComparatorTest.compareTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoneComparatorTest_sortTest - 2018.03.30 at 16h 25m 30s.xml">
+      <configuration name="PhoneComparatorTest.sortTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PhoneListCheckerTest - 2018.03.30 at 15h 58m 01s.xml">
       <configuration name="PhoneListCheckerTest" configurationId="JUnit" />
@@ -735,9 +745,6 @@
     <history-entry file="PhoneListCheckerTest - 2018.03.30 at 16h 06m 23s.xml">
       <configuration name="PhoneListCheckerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneListCheckerTest_isConsistentTest_Consistent - 2018.03.30 at 15h 51m 47s.xml">
-      <configuration name="PhoneListCheckerTest.isConsistentTest_Consistent" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PhoneListCheckerTest_isConsistentTest_Consistent - 2018.03.30 at 15h 53m 00s.xml">
       <configuration name="PhoneListCheckerTest.isConsistentTest_Consistent" configurationId="JUnit" />
     </history-entry>
@@ -746,7 +753,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5695000" />
+    <option name="totallyTimeSpent" value="6047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -788,7 +795,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Failing test of doFizzBuzz(2)" />
     <MESSAGE value="Passing test of doFizzBuzz(2)" />
     <MESSAGE value="Failing test of doFizzBuzz(3)" />
     <MESSAGE value="Passing test of doFizzBuzz(3)" />
@@ -813,7 +819,8 @@
     <MESSAGE value="Phone: Passing test multiple phone numbers, two equal" />
     <MESSAGE value="Phone: Failing test multiple phone numbers, prefix" />
     <MESSAGE value="Phone: Added Comparator for phone number sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phone: Added Comparator for phone number sorting" />
+    <MESSAGE value="Phone: Added Test for comparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phone: Added Test for comparator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -906,8 +913,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/phone/PhoneComparatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="58" lean-forward="true" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
