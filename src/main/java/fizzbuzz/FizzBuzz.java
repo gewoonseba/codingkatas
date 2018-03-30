@@ -15,11 +15,11 @@ public class FizzBuzz {
             result += "Fizz";
         }
 
-        if (isDivisableBy(number, 5)) {
+        if (isBuzz(number)) {
            result += "Buzz";
         }
 
-        if (! (isFizz(number) || isDivisableBy(number, 5))){
+        if (! (isFizz(number) || isBuzz(number))){
             result += number.toString();
         }
 
@@ -30,6 +30,9 @@ public class FizzBuzz {
         return isDivisableBy(number, 3) || number.toString().contains("3");
     }
 
+    private boolean isBuzz(Integer number){
+        return isDivisableBy(number, 5) || number.toString().contains("5");
+    }
 
     private boolean isDivisableBy(Integer number, Integer divisor){
         return number % divisor == 0;

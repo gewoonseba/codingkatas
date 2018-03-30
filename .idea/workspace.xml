@@ -4,7 +4,6 @@
     <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/fizzbuzz/FizzBuzzTest.java" afterPath="$PROJECT_DIR$/src/test/java/fizzbuzz/FizzBuzzTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,22 +26,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="315">
+              <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
               <folding>
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/fizzbuzz/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -418,7 +419,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522413347793</updated>
-      <workItem from="1522413349102" duration="2932000" />
+      <workItem from="1522413349102" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="Failing test of doFizzBuzz(1)">
       <created>1522413902212</created>
@@ -532,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522416515745</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="FizzBuzz2: Failing test doFizzBuzz(52)">
+      <created>1522416663694</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1522416663694</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -554,8 +562,8 @@
     <history-entry file="FizzBuzzTest - 2018.03.30 at 15h 29m 59s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest - 2018.03.30 at 14h 56m 28s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest - 2018.03.30 at 15h 35m 30s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FizzBuzzTest_fizzBuzzTest - 2018.03.30 at 14h 58m 47s.xml">
       <configuration name="FizzBuzzTest.fizzBuzzTest" configurationId="JUnit" />
@@ -568,7 +576,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2932000" />
+    <option name="totallyTimeSpent" value="3214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -583,7 +591,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8331318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8331318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -626,7 +634,8 @@
     <MESSAGE value="FizzBuzz: Added test cases" />
     <MESSAGE value="FizzBuzz2: Failing test doFizzBuzz(13)" />
     <MESSAGE value="FizzBuzz2: Passing test doFizzBuzz(13)" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz2: Passing test doFizzBuzz(13)" />
+    <MESSAGE value="FizzBuzz2: Failing test doFizzBuzz(52)" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz2: Failing test doFizzBuzz(52)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -651,25 +660,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/fizzbuzz/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
           </folding>
         </state>
       </provider>
