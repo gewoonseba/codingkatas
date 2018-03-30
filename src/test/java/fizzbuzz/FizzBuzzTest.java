@@ -18,16 +18,20 @@ public class FizzBuzzTest {
     @Test
     public void fizzBuzzTest_Fizz(){
         assertEquals("Fizz", fizzBuzz.doFizzBuzz(3));
+        assertEquals("Fizz", fizzBuzz.doFizzBuzz(6));
     }
 
     @Test
     public void fizzBuzzTest_Buzz(){
         assertEquals("Buzz", fizzBuzz.doFizzBuzz(5));
+        assertEquals("Buzz", fizzBuzz.doFizzBuzz(10));
+
     }
 
     @Test
     public void fizzBuzzTest_FizzBuzz(){
         assertEquals("FizzBuzz", fizzBuzz.doFizzBuzz(15));
+        assertEquals("FizzBuzz", fizzBuzz.doFizzBuzz(30));
 
     }
 
