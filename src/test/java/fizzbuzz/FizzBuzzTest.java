@@ -35,6 +35,7 @@ public class FizzBuzzTest {
     public void fizzBuzzTest_FizzBuzz(){
         assertEquals("FizzBuzz", fizzBuzz.doFizzBuzz(15));
         assertEquals("FizzBuzz", fizzBuzz.doFizzBuzz(30));
+        assertEquals("FizzBuzz", fizzBuzz.doFizzBuzz(51));
 
     }
 
