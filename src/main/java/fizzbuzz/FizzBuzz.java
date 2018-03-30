@@ -3,16 +3,16 @@ package fizzbuzz;
 public class FizzBuzz {
 
     public String doFizzBuzz(Integer number) {
-
+        String result = "";
         if (number % 3 == 0) {
-            return "Fizz";
+            result += "Fizz";
         }
-
         if (number % 5 == 0) {
-           return "Buzz";
+           result += "Buzz";
         }
-
-        return number.toString();
-
+        if (result == ""){
+            result = number.toString();
+        }
+        return result;
     }
 }
