@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" afterPath="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" afterPath="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,8 +114,8 @@
         <option value="$PROJECT_DIR$/src/main/java/phone/ListReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/phone/ConsistencyChecker.java" />
         <option value="$PROJECT_DIR$/src/test/java/phone/ConsistencyCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
       </list>
     </option>
   </component>
@@ -482,7 +482,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522413347793</updated>
-      <workItem from="1522413349102" duration="4459000" />
+      <workItem from="1522413349102" duration="4559000" />
     </task>
     <task id="LOCAL-00001" summary="Failing test of doFizzBuzz(1)">
       <created>1522413902212</created>
@@ -638,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522418054179</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Phone: Passed tests two phone numbers">
+      <created>1522418347652</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1522418347652</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -674,7 +681,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4459000" />
+    <option name="totallyTimeSpent" value="4559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -738,7 +745,8 @@
     <MESSAGE value="Phone: Failing test single phone number" />
     <MESSAGE value="Phone: Passing test single phone number" />
     <MESSAGE value="Phone: Failing tests two phone numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phone: Failing tests two phone numbers" />
+    <MESSAGE value="Phone: Passed tests two phone numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phone: Passed tests two phone numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -807,7 +815,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

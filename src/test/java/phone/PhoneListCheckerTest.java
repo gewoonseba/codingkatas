@@ -25,7 +25,9 @@ public class PhoneListCheckerTest {
     public void isConsistentTest_NotConsistent(){
         List<String> phoneList = new ArrayList();
         phoneList.add("911");
-        phoneList.add("911");
+        phoneList.add("123");
+        phoneList.add("678");
+        phoneList.add("123");
 
         assertEquals(false, checker.isConsistent(phoneList));
     }
