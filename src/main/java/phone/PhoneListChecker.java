@@ -15,7 +15,20 @@ public class PhoneListChecker {
         }
     }
 
-    public Boolean checkConsistency(List<String> phoneNumbers){
+    private Boolean checkConsistency(List<String> phoneNumbers){
+        if (hasDuplicates(phoneNumbers)) {
+            return false;
+        } else {
+            return hasPrefixes(phoneNumbers);
+        }
+    }
+
+    private Boolean hasPrefixes(List<String> phoneNumbers) {
+        HashSet<String> checked = new HashSet<String>();
+        return false;
+    }
+
+    private Boolean hasDuplicates(List<String> phoneNumbers){
         Set<String> uniqueNumbers = new HashSet<String>(phoneNumbers);
         return uniqueNumbers.size() == phoneNumbers.size();
     }
