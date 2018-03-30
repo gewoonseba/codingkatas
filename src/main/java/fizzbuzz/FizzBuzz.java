@@ -2,7 +2,7 @@ package fizzbuzz;
 
 public class FizzBuzz {
 
-    public String fizzBuzz(Integer number){
+    public String doFizzBuzz(Integer number){
         return null;
     }
 }
