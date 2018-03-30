@@ -13,6 +13,7 @@ public class FizzBuzzTest {
     public void fizzBuzzTest() {
         assertEquals("1", fizzBuzz.doFizzBuzz(1));
         assertEquals("2", fizzBuzz.doFizzBuzz(2));
+        assertEquals("Fizz", fizzBuzz.doFizzBuzz(3));
     }
 
 }
