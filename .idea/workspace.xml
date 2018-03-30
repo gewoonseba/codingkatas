@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="Passing test of doFizzBuzz(3)">
+    <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/fizzbuzz/FizzBuzzTest.java" afterPath="$PROJECT_DIR$/src/test/java/fizzbuzz/FizzBuzzTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="210">
+              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -69,8 +69,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/test/java/fizzbuzz/FizzBuzzTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java" />
       </list>
     </option>
   </component>
@@ -320,7 +320,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522413347793</updated>
-      <workItem from="1522413349102" duration="883000" />
+      <workItem from="1522413349102" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="Failing test of doFizzBuzz(1)">
       <created>1522413902212</created>
@@ -364,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522414193967</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Failing test of doFizzBuzz(5)">
+      <created>1522414255787</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1522414255787</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -389,9 +396,12 @@
     <history-entry file="FizzBuzzTest_fizzBuzzTest - 2018.03.30 at 14h 50m 44s.xml">
       <configuration name="FizzBuzzTest.fizzBuzzTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTest_fizzBuzzTest - 2018.03.30 at 14h 54m 14s.xml">
+      <configuration name="FizzBuzzTest.fizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="883000" />
+    <option name="totallyTimeSpent" value="1092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -439,7 +449,8 @@
     <MESSAGE value="Passing test of doFizzBuzz(2)" />
     <MESSAGE value="Failing test of doFizzBuzz(3)" />
     <MESSAGE value="Passing test of doFizzBuzz(3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Passing test of doFizzBuzz(3)" />
+    <MESSAGE value="Failing test of doFizzBuzz(5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Failing test of doFizzBuzz(5)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -456,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fizzbuzz/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding />
         </state>
       </provider>
