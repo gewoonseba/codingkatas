@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" afterPath="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" afterPath="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,9 +46,12 @@
       <file leaf-file-name="PhoneListChecker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-              <folding />
+            <state relative-caret-position="285">
+              <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#443#451#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +117,8 @@
         <option value="$PROJECT_DIR$/src/main/java/phone/ListReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/phone/ConsistencyChecker.java" />
         <option value="$PROJECT_DIR$/src/test/java/phone/ConsistencyCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" />
         <option value="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" />
       </list>
     </option>
   </component>
@@ -252,25 +255,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.PhoneListCheckerTest">
-    <configuration name="FizzBuzzRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="fizzbuzz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="fizzbuzz.FizzBuzzRunner" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="codingkatas" />
-      <envs />
-    </configuration>
     <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -371,6 +355,31 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="PhoneListCheckerTest.isConsistentTest_NotConsistent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="phone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="codingkatas" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="phone" />
+      <option name="MAIN_CLASS_NAME" value="phone.PhoneListCheckerTest" />
+      <option name="METHOD_NAME" value="isConsistentTest_NotConsistent" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -453,19 +462,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FizzBuzzRunner" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.fizzBuzzTest_Number" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_Consistent" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.fizzBuzzTest_Number" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_Consistent" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_NotConsistent" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_Consistent" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.fizzBuzzTest_Number" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FizzBuzzRunner" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_NotConsistent" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PhoneListCheckerTest.isConsistentTest_Consistent" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.fizzBuzzTest_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -482,7 +491,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522413347793</updated>
-      <workItem from="1522413349102" duration="4559000" />
+      <workItem from="1522413349102" duration="4843000" />
     </task>
     <task id="LOCAL-00001" summary="Failing test of doFizzBuzz(1)">
       <created>1522413902212</created>
@@ -645,16 +654,17 @@
       <option name="project" value="LOCAL" />
       <updated>1522418347652</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Phone: Failing test multiple phone numbers, two equal">
+      <created>1522418468394</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1522418468394</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest - 2018.03.30 at 15h 29m 20s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest - 2018.03.30 at 15h 29m 59s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2018.03.30 at 15h 35m 30s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
@@ -670,6 +680,9 @@
     <history-entry file="PhoneListCheckerTest - 2018.03.30 at 15h 58m 55s.xml">
       <configuration name="PhoneListCheckerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PhoneListCheckerTest - 2018.03.30 at 16h 05m 08s.xml">
+      <configuration name="PhoneListCheckerTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="PhoneListCheckerTest_isConsistentTest_Consistent - 2018.03.30 at 15h 50m 42s.xml">
       <configuration name="PhoneListCheckerTest.isConsistentTest_Consistent" configurationId="JUnit" />
     </history-entry>
@@ -679,9 +692,12 @@
     <history-entry file="PhoneListCheckerTest_isConsistentTest_Consistent - 2018.03.30 at 15h 53m 00s.xml">
       <configuration name="PhoneListCheckerTest.isConsistentTest_Consistent" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PhoneListCheckerTest_isConsistentTest_NotConsistent - 2018.03.30 at 16h 01m 14s.xml">
+      <configuration name="PhoneListCheckerTest.isConsistentTest_NotConsistent" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4559000" />
+    <option name="totallyTimeSpent" value="4843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -707,7 +723,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -746,7 +762,8 @@
     <MESSAGE value="Phone: Passing test single phone number" />
     <MESSAGE value="Phone: Failing tests two phone numbers" />
     <MESSAGE value="Phone: Passed tests two phone numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phone: Passed tests two phone numbers" />
+    <MESSAGE value="Phone: Failing test multiple phone numbers, two equal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phone: Failing test multiple phone numbers, two equal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,9 +823,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#443#451#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

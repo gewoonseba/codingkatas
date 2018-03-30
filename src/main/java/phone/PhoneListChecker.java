@@ -1,6 +1,8 @@
 package phone;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class PhoneListChecker {
 
@@ -9,7 +11,12 @@ public class PhoneListChecker {
         if (phoneNumbers.size() <= 1) {
             return true;
         } else {
-            return phoneNumbers.get(0) != phoneNumbers.get(1);
+            return checkConsistency(phoneNumbers);
         }
+    }
+
+    public Boolean checkConsistency(List<String> phoneNumbers){
+        Set<String> uniqueNumbers = new HashSet<String>(phoneNumbers);
+        return uniqueNumbers.size() == phoneNumbers.size();
     }
 }
