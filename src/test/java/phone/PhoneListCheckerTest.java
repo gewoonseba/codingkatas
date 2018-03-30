@@ -22,12 +22,22 @@ public class PhoneListCheckerTest {
     }
 
     @Test
-    public void isConsistentTest_NotConsistent(){
+    public void isConsistentTest_NotConsistent_Duplicate(){
         List<String> phoneList = new ArrayList();
         phoneList.add("911");
         phoneList.add("123");
         phoneList.add("678");
         phoneList.add("123");
+
+        assertEquals(false, checker.isConsistent(phoneList));
+    }
+
+    @Test
+    public void isConsistentTest_NotConsistent_Prefix(){
+        List<String> phoneList = new ArrayList();
+        phoneList.add("911");
+        phoneList.add("123");
+        phoneList.add("1234");
 
         assertEquals(false, checker.isConsistent(phoneList));
     }

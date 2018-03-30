@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" afterPath="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" afterPath="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,8 +59,8 @@
       <file leaf-file-name="PhoneListCheckerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="585">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,8 +117,8 @@
         <option value="$PROJECT_DIR$/src/main/java/phone/ListReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/phone/ConsistencyChecker.java" />
         <option value="$PROJECT_DIR$/src/test/java/phone/ConsistencyCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/phone/PhoneListChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java" />
       </list>
     </option>
   </component>
@@ -491,7 +491,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522413347793</updated>
-      <workItem from="1522413349102" duration="4843000" />
+      <workItem from="1522413349102" duration="4906000" />
     </task>
     <task id="LOCAL-00001" summary="Failing test of doFizzBuzz(1)">
       <created>1522413902212</created>
@@ -661,13 +661,17 @@
       <option name="project" value="LOCAL" />
       <updated>1522418468394</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Phone: Passing test multiple phone numbers, two equal">
+      <created>1522418732224</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1522418732224</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest - 2018.03.30 at 15h 35m 30s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2018.03.30 at 15h 36m 03s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
@@ -681,6 +685,9 @@
       <configuration name="PhoneListCheckerTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PhoneListCheckerTest - 2018.03.30 at 16h 05m 08s.xml">
+      <configuration name="PhoneListCheckerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoneListCheckerTest - 2018.03.30 at 16h 06m 23s.xml">
       <configuration name="PhoneListCheckerTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PhoneListCheckerTest_isConsistentTest_Consistent - 2018.03.30 at 15h 50m 42s.xml">
@@ -697,7 +704,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4843000" />
+    <option name="totallyTimeSpent" value="4906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -763,7 +770,8 @@
     <MESSAGE value="Phone: Failing tests two phone numbers" />
     <MESSAGE value="Phone: Passed tests two phone numbers" />
     <MESSAGE value="Phone: Failing test multiple phone numbers, two equal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phone: Failing test multiple phone numbers, two equal" />
+    <MESSAGE value="Phone: Passing test multiple phone numbers, two equal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phone: Passing test multiple phone numbers, two equal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -834,8 +842,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/phone/PhoneListCheckerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="585">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
