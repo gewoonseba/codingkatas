@@ -31,3 +31,4 @@ phonenumber/src/main/resources/
 textconverter/target/generated-sources/
 textconverter/target/generated-test-sources/
 tirepressuremonitoringsystem/target/
+.idea/

@@ -2,89 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13dc2156-0e1e-4847-a36c-e8268c931e3f" name="Default" comment="TyrePressure: Created Sensor interface and unit tests for Alarm">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/classes/fizzbuzz/FizzBuzz.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/classes/fizzbuzz/FizzBuzzRunner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/fizzbuzz-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/test-classes/fizzbuzz/FizzBuzzTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Driver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Leaderboard$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Leaderboard$DriverByPointsDescendingComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Leaderboard.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Race.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/SelfDrivingCar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/leaderboard-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/test-classes/tddmicroexercises/leaderboard/LeaderboardTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/test-classes/tddmicroexercises/leaderboard/RaceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/test-classes/tddmicroexercises/leaderboard/TestData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/classes/phone/PhoneComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/classes/phone/PhoneListChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/phonenumber-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/test-classes/phone/PhoneComparatorTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/test-classes/phone/PhoneListCheckerTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/classes/tddmicroexercises/telemetrysystem/TelemetryClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/classes/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControls.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/telemetrysystem-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/test-classes/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControlsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/classes/tddmicroexercises/textconvertor/HtmlPagesConverter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/classes/tddmicroexercises/textconvertor/HtmlTextConverter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/classes/tddmicroexercises/textconvertor/StringEscapeUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/test-classes/tddmicroexercises/textconvertor/HtmlPagesConverterTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/test-classes/tddmicroexercises/textconvertor/HtmlTextConverterTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/surefire-reports/TEST-fizzbuzz.FizzBuzzTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizzbuzz/target/surefire-reports/fizzbuzz.FizzBuzzTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/surefire-reports/TEST-tddmicroexercises.leaderboard.LeaderboardTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/surefire-reports/TEST-tddmicroexercises.leaderboard.RaceTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/surefire-reports/tddmicroexercises.leaderboard.LeaderboardTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard/target/surefire-reports/tddmicroexercises.leaderboard.RaceTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/surefire-reports/TEST-phone.PhoneComparatorTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/surefire-reports/TEST-phone.PhoneListCheckerTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/surefire-reports/phone.PhoneComparatorTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonenumber/target/surefire-reports/phone.PhoneListCheckerTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/surefire-reports/TEST-tddmicroexercises.telemetrysystem.TelemetryDiagnosticControlsTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/telemetrysystem/target/surefire-reports/tddmicroexercises.telemetrysystem.TelemetryDiagnosticControlsTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/src/main/resources/testinput.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/surefire-reports/TEST-tddmicroexercises.textconvertor.HtmlPagesConverterTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/surefire-reports/TEST-tddmicroexercises.textconvertor.HtmlTextConverterTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/surefire-reports/tddmicroexercises.textconvertor.HtmlPagesConverterTest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/target/surefire-reports/tddmicroexercises.textconvertor.HtmlTextConverterTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codingkatas.iml" afterPath="$PROJECT_DIR$/codingkatas.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telemetrysystem/src/main/java/tddmicroexercises/telemetrysystem/TelemetryClient.java" afterPath="$PROJECT_DIR$/telemetrysystem/src/main/java/tddmicroexercises/telemetrysystem/TelemetryClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telemetrysystem/src/main/java/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControls.java" afterPath="$PROJECT_DIR$/telemetrysystem/src/main/java/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControls.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telemetrysystem/src/test/java/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControlsTest.java" afterPath="$PROJECT_DIR$/telemetrysystem/src/test/java/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControlsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlLineConverter.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/classes/fizzbuzz/FizzBuzz.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/classes/fizzbuzz/FizzBuzzRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/fizzbuzz-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/surefire-reports/TEST-fizzbuzz.FizzBuzzTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/surefire-reports/fizzbuzz.FizzBuzzTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fizzbuzz/target/test-classes/fizzbuzz/FizzBuzzTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Driver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Leaderboard$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Leaderboard$DriverByPointsDescendingComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Leaderboard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/Race.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/classes/tddmicroexercises/leaderboard/SelfDrivingCar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/leaderboard-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/surefire-reports/TEST-tddmicroexercises.leaderboard.LeaderboardTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/surefire-reports/TEST-tddmicroexercises.leaderboard.RaceTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/surefire-reports/tddmicroexercises.leaderboard.LeaderboardTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/surefire-reports/tddmicroexercises.leaderboard.RaceTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/test-classes/tddmicroexercises/leaderboard/LeaderboardTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/test-classes/tddmicroexercises/leaderboard/RaceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leaderboard/target/test-classes/tddmicroexercises/leaderboard/TestData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/classes/phone/PhoneComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/classes/phone/PhoneListChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/phonenumber-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/surefire-reports/TEST-phone.PhoneComparatorTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/surefire-reports/TEST-phone.PhoneListCheckerTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/surefire-reports/phone.PhoneComparatorTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/surefire-reports/phone.PhoneListCheckerTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/test-classes/phone/PhoneComparatorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phonenumber/target/test-classes/phone/PhoneListCheckerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/classes/tddmicroexercises/telemetrysystem/TelemetryClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/classes/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControls.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/surefire-reports/TEST-tddmicroexercises.telemetrysystem.TelemetryDiagnosticControlsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/surefire-reports/tddmicroexercises.telemetrysystem.TelemetryDiagnosticControlsTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/telemetrysystem-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telemetrysystem/target/test-classes/tddmicroexercises/telemetrysystem/TelemetryDiagnosticControlsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/classes/tddmicroexercises/textconvertor/HtmlPagesConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/classes/tddmicroexercises/textconvertor/HtmlTextConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/classes/tddmicroexercises/textconvertor/StringEscapeUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/surefire-reports/TEST-tddmicroexercises.textconvertor.HtmlPagesConverterTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/surefire-reports/TEST-tddmicroexercises.textconvertor.HtmlTextConverterTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/surefire-reports/tddmicroexercises.textconvertor.HtmlPagesConverterTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/surefire-reports/tddmicroexercises.textconvertor.HtmlTextConverterTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/test-classes/tddmicroexercises/textconvertor/HtmlPagesConverterTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textconverter/target/test-classes/tddmicroexercises/textconvertor/HtmlTextConverterTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlTextConverter.java" afterPath="$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlTextConverter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlTextConverterTest.java" afterPath="$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlTextConverterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textconverter/textconverter.iml" afterPath="$PROJECT_DIR$/textconverter/textconverter.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tirepressuremonitoringsystem/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Alarm.java" afterPath="$PROJECT_DIR$/tirepressuremonitoringsystem/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Alarm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tirepressuremonitoringsystem/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java" afterPath="$PROJECT_DIR$/tirepressuremonitoringsystem/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/turnticketdispenser/src/main/java/tddmicroexercises/turnticketdispenser/TicketDispenser.java" afterPath="$PROJECT_DIR$/turnticketdispenser/src/main/java/tddmicroexercises/turnticketdispenser/TicketDispenser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/turnticketdispenser/src/main/java/tddmicroexercises/turnticketdispenser/TurnNumberSequence.java" afterPath="$PROJECT_DIR$/turnticketdispenser/src/main/java/tddmicroexercises/turnticketdispenser/TurnNumberSequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/turnticketdispenser/src/main/java/tddmicroexercises/turnticketdispenser/TurnTicket.java" afterPath="$PROJECT_DIR$/turnticketdispenser/src/main/java/tddmicroexercises/turnticketdispenser/TurnTicket.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -120,8 +117,18 @@
       <file leaf-file-name="HtmlTextConverter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlTextConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="300">
+              <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlLineConverter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlLineConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -137,11 +144,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlTextConverterTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HtmlTextConverterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlTextConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+            <state relative-caret-position="225">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlPagesConverterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlPagesConverterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -160,34 +187,9 @@
       <file leaf-file-name="HtmlPagesConverter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlPagesConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sensor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tirepressuremonitoringsystem/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/sensor/Sensor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSensor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tirepressuremonitoringsystem/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/sensor/TestSensor.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-              </folding>
+              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -197,16 +199,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomSensor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tirepressuremonitoringsystem/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/sensor/RandomSensor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -260,9 +252,14 @@
         <option value="$PROJECT_DIR$/tirepressuremonitoringsystem/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/sensor/TestSensor.java" />
         <option value="$PROJECT_DIR$/tirepressuremonitoringsystem/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Alarm.java" />
         <option value="$PROJECT_DIR$/tirepressuremonitoringsystem/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/textconverter/src/main/resources/testinput.txt" />
+        <option value="$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlLineConverterInstance.java" />
+        <option value="$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlPagesConverter.java" />
+        <option value="$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlLineConverter.java" />
+        <option value="$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlPagesConverterTest.java" />
         <option value="$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlTextConverterTest.java" />
+        <option value="$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlTextConverter.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -341,12 +338,18 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="codingkatas" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingkatas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codingkatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingkatas" type="462c0819:PsiDirectoryNode" />
+              <item name="fizzbuzz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codingkatas" type="b2602c69:ProjectViewProjectNode" />
@@ -498,7 +501,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
@@ -508,10 +510,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -541,7 +544,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HtmlTextConverterTest">
+  <component name="RunManager" selected="JUnit.HtmlTextConverterTest.convert">
     <configuration name="HtmlTextConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -567,7 +570,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="HtmlTextConverterTest.foo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HtmlTextConverterTest.convert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="tddmicroexercises.textconvertor.*" />
@@ -579,7 +582,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="tddmicroexercises.textconvertor" />
       <option name="MAIN_CLASS_NAME" value="tddmicroexercises.textconvertor.HtmlTextConverterTest" />
-      <option name="METHOD_NAME" value="foo" />
+      <option name="METHOD_NAME" value="convert" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -750,17 +753,17 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.HtmlTextConverterTest.foo" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HtmlTextConverterTest.convert" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.TestAlarm.foo" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.TestAlarm" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.HtmlTextConverterTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HtmlTextConverterTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestAlarm" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestAlarm.foo" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.HtmlTextConverterTest.foo" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HtmlTextConverterTest.convert" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HtmlTextConverterTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestAlarm" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestAlarm.foo" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneComparatorTest" />
       </list>
     </recent_temporary>
@@ -781,6 +784,8 @@
       <workItem from="1522413349102" duration="11475000" />
       <workItem from="1523116867919" duration="572000" />
       <workItem from="1523119165846" duration="2064000" />
+      <workItem from="1524296377696" duration="1489000" />
+      <workItem from="1524299642230" duration="689000" />
     </task>
     <task id="LOCAL-00001" summary="Failing test of doFizzBuzz(1)">
       <created>1522413902212</created>
@@ -1031,26 +1036,26 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HtmlTextConverterTest - 2018.04.07 at 19h 12m 45s.xml">
-      <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HtmlTextConverterTest - 2018.04.07 at 19h 14m 11s.xml">
-      <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HtmlTextConverterTest - 2018.04.07 at 19h 14m 24s.xml">
-      <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HtmlTextConverterTest - 2018.04.07 at 19h 14m 37s.xml">
-      <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HtmlTextConverterTest - 2018.04.07 at 19h 16m 31s.xml">
-      <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HtmlTextConverterTest - 2018.04.07 at 19h 16m 59s.xml">
       <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="HtmlTextConverterTest - 2018.04.07 at 19h 17m 13s.xml">
       <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HtmlTextConverterTest - 2018.04.21 at 10h 05m 28s.xml">
+      <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HtmlTextConverterTest - 2018.04.21 at 10h 35m 19s.xml">
+      <configuration name="HtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HtmlTextConverterTest_convert - 2018.04.21 at 10h 19m 35s.xml">
+      <configuration name="HtmlTextConverterTest.convert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HtmlTextConverterTest_convert - 2018.04.21 at 10h 35m 39s.xml">
+      <configuration name="HtmlTextConverterTest.convert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HtmlTextConverterTest_convert - 2018.04.21 at 10h 36m 14s.xml">
+      <configuration name="HtmlTextConverterTest.convert" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestAlarm - 2018.04.07 at 17h 55m 50s.xml">
       <configuration name="TestAlarm" configurationId="JUnit" />
@@ -1063,7 +1068,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14111000" />
+    <option name="totallyTimeSpent" value="16289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1079,12 +1084,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14091559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8331318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25608012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1095,6 +1099,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1180,14 +1185,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leaderboard/src/main/java/tddmicroexercises/leaderboard/SelfDrivingCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tirepressuremonitoringsystem/src/main/java/tddmicroexercises/tirepressuremonitoringsystem/Alarm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1240,7 +1237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +1244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,7 +1251,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,7 +1258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1435,13 +1428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlPagesConverterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leaderboard/src/test/java/tddmicroexercises/leaderboard/LeaderboardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1467,7 +1453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1475,7 +1460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1483,7 +1467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1491,7 +1474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1524,13 +1506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tirepressuremonitoringsystem/src/test/java/tddmicroexercises/tirepressuremonitoringsystem/TestAlarm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1550,22 +1525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlPagesConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlTextConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/StringEscapeUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1582,10 +1541,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlPagesConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlPagesConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlLineConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textconverter/src/main/java/tddmicroexercises/textconvertor/HtmlTextConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/textconverter/src/test/java/tddmicroexercises/textconvertor/HtmlTextConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        <state relative-caret-position="225">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>

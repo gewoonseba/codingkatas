@@ -7,6 +7,7 @@ import java.io.IOException;
 public class HtmlTextConverter
 {
     private String fullFilenameWithPath;
+    private HtmlLineConverter lineConverter = new HtmlLineConverter();
 
     public HtmlTextConverter(String fullFilenameWithPath)
     {
@@ -21,9 +22,8 @@ public class HtmlTextConverter
 	    String html = "";
 	    while (line != null)
 	    {
-	    	html += StringEscapeUtils.escapeHtml(line);
-	        html += "<br />";
-	        line = reader.readLine();
+	    	html += lineConverter.convert(line);
+	    	line = reader.readLine();
 	    }
 	    return html;
 
